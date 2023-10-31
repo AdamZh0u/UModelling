@@ -1,0 +1,8 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "python.formatting.provider": "none",
+    "outline.showConstants": false,
+    "outline.showVariables": false,
+    // "notebook.outline.showCodeCells": true
+}

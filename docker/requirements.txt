@@ -1,0 +1,14 @@
+dtale
+fredapi==0.5.1
+jupyterlab==4.0.6
+lightgbm==4.1.0
+matplotlib==3.8.0
+pandas==2.1.0
+pyodbc==4.0.39
+pytrends==4.9.2
+scikit-learn
+SQLAlchemy==2.0.20
+streamlit==1.25.0
+tqdm
+tsfresh==0.20.1
+wandb==0.15.8
